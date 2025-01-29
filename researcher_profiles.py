@@ -57,3 +57,5 @@ if uploaded_file:
 st.header("Contact Information")
 email = "annick.vanniekerk@uct.ac.za"
 st.write(f"You can reach {name} at {email}.")
+
+st.link_button("Click for a laugh", "https://www.youtube.com/watch?v=X9dQLHF02ic" )
